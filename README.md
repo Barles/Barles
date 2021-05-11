@@ -5,6 +5,10 @@
 </a>
 <!--[![gitlab badge](https://media.badgr.com/uploads/badges/assertion-uOtPBMy0Sn2-uVeN2Tt9yg.png)](https://api.badgr.io/public/assertions/uOtPBMy0Sn2-uVeN2Tt9yg?identity__email=ballester.charles%40gmail.com)-->
 
+# Wakatime
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@8cabf140-7860-417e-a96f-4ec7d9d77055/f60da7c2-6bea-4cd5-96c3-178b195cf2cc.png" /></a>
+
 <!--
 **Barles/Barles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
