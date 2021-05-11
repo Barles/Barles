@@ -1,4 +1,9 @@
+# Certifications
 
+<a href="https://api.badgr.io/public/assertions/uOtPBMy0Sn2-uVeN2Tt9yg?identity__email=ballester.charles%40gmail.com">
+  <img src="https://media.badgr.com/uploads/badges/assertion-uOtPBMy0Sn2-uVeN2Tt9yg.png" alt="gitlabe badge" width="100" height="100"></img>
+</a>
+<!--[![gitlab badge](https://media.badgr.com/uploads/badges/assertion-uOtPBMy0Sn2-uVeN2Tt9yg.png)](https://api.badgr.io/public/assertions/uOtPBMy0Sn2-uVeN2Tt9yg?identity__email=ballester.charles%40gmail.com)-->
 
 <!--
 **Barles/Barles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
